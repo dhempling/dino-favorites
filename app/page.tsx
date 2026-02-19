@@ -9,6 +9,7 @@ export default function Home() {
         <li>🦖 Dinosaurs</li>
         <li>🌳 Playing outside</li>
         <li>🎮 Video games</li>
+        <li>📚 Reading books</li>
       </ul>
       <p style={{ fontSize: '24px' }}>Add more later when you're bigger! 🚀</p>
     </div>
